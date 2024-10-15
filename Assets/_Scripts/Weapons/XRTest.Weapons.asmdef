@@ -1,0 +1,20 @@
+{
+    "name": "XRTest.Weapons",
+    "rootNamespace": "XRTest.Weapons",
+    "references": [
+        "GUID:c9e5fdb3124080b49937418491ece840",
+        "GUID:3f1726bdabda600479c0320e2c6dbe62",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:fe685ec1767f73d42b749ea8045bfe43"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

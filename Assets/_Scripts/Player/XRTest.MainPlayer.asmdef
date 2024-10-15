@@ -1,0 +1,23 @@
+{
+    "name": "XRTest.MainPlayer",
+    "rootNamespace": "XRTest.MainPlayer",
+    "references": [
+        "GUID:f3785014d81db3f44a1f455da478178e",
+        "GUID:3f1726bdabda600479c0320e2c6dbe62",
+        "GUID:0528a2f5c0295124f915f101ae29ddf0",
+        "GUID:c9e5fdb3124080b49937418491ece840",
+        "GUID:a75ff7b1fcd861c4797c2f9fb3f78bd2",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
